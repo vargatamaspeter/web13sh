@@ -1,0 +1,64 @@
+body{ 
+    background-color: #E0E0E0;
+    color: #660000;
+    font-family: Arial;
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+img{
+    width: 3%;
+    float: central;
+}
+
+ol li {
+    text-align: left;
+     
+}
+
+
+
+p{
+    font-weight: bold;
+    text-align: left;
+    font-size: large;
+}
+
+#jel1{
+    float: left;
+    
+}
+
+#jel2{
+    float: right;
+}
+
+#nemet{
+    width: 5%;
+    margin: 3%;
+}
+
+#magyar{
+    width: 5%;
+    margin: 3%;
+}
+
+#angol{
+    width: 5%;
+    margin: 3%;
+}
+
+ul{
+    text-align: left;
+}
+
+#also{
+    text-align: center;
+    font-size: 15pt;
+}
+
+#felso{
+    font-size: 20pt;
+}
